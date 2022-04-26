@@ -2,7 +2,7 @@
 
 I´m María, web developer from Madrid.
 
-Down here languages I currently use:
+Currently into:
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github)](https://skillicons.dev)
 
